@@ -1,0 +1,7 @@
+{
+  "name": "AI Fact-Checker",
+  "description": "An AI-powered search engine that provides accurate, fact-checked answers with reliable sources, similar to Perplexity. It uses Google Search grounding for up-to-date information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
